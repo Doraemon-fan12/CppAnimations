@@ -1,0 +1,3 @@
+/workspaces/CppAnimations/TestAnimations/build/CMakeFiles/rebuild_cache.dir
+/workspaces/CppAnimations/TestAnimations/build/CMakeFiles/edit_cache.dir
+/workspaces/CppAnimations/TestAnimations/build/CMakeFiles/TestAnimations.dir
